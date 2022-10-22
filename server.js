@@ -6,7 +6,7 @@ const posts = [
         title:'post1'
     },
     {
-        username:'tom',
+        username:'Tom',
         title:'post2'
     }
 ]
